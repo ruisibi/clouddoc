@@ -15,6 +15,5 @@
     * 多维分析
     * 仪表盘
     * 手机报表
-* [收费标准](shou-fei-biao-zhun.md)
 * [常见问题](chang-jian-wen-ti.md)
 
