@@ -10,6 +10,7 @@
   * [数据准备](chapter1/shu-ju-dao-ru.md)
     * [数据导入](chapter1/shu-ju-dao-ru/shu-ju-dao-ru.md)
     * [数据填报](chapter1/shu-ju-dao-ru/shu-ju-tian-bao.md)
+  * [数据查询](chapter1/shu-ju-cha-xun.md)
   * [数据建模](chapter1/shu-ju-jian-mo.md)
   * [可视化](chapter1/ke-shi-hua.md)
     * [多维分析](chapter1/ke-shi-hua/duo-wei-fen-xi.md)
