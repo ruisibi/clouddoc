@@ -12,8 +12,8 @@
     * [数据填报](chapter1/shu-ju-dao-ru/shu-ju-tian-bao.md)
   * [数据建模](chapter1/shu-ju-jian-mo.md)
   * [可视化](chapter1/ke-shi-hua.md)
-    * 多维分析
-    * 仪表盘
-    * 手机报表
+    * [多维分析](chapter1/ke-shi-hua/duo-wei-fen-xi.md)
+    * [仪表盘](chapter1/ke-shi-hua/yi-biao-pan.md)
+    * [手机报表](chapter1/ke-shi-hua/shou-ji-bao-biao.md)
 * [常见问题](chang-jian-wen-ti.md)
 
