@@ -16,4 +16,5 @@
     * [多维分析](chapter1/ke-shi-hua/duo-wei-fen-xi.md)
     * [仪表盘](chapter1/ke-shi-hua/yi-biao-pan.md)
     * [手机报表](chapter1/ke-shi-hua/shou-ji-bao-biao.md)
+  * [睿思云APP](chapter1/rui-si-yun-app.md)
 
